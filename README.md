@@ -50,3 +50,5 @@ Diagramas UML projeto final
 
 ![427249945-2a476b49-8f18-4e99-9e42-a1d79df125a3](https://github.com/user-attachments/assets/5a7e3787-5b77-4d50-9f83-20a8bcff93bc)
 
+A refatoração aplicou SOLID e Clean Code para melhorar a estrutura e legibilidade do código. A modularização tornou o sistema mais escalável, permitindo a adição de novos comportamentos e melhorias futuras com facilidade.
+
